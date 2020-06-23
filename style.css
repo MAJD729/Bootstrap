@@ -1,0 +1,16 @@
+#my-photo{width: 20%;}
+section{background-color: #313131;
+  
+}
+#header{text-align: center;}
+#card{padding: 20px;
+    width: 28%;
+    float: left;}
+#web-link{text-decoration:none;
+color: black;}
+#cv{color: white;
+text-align: center;
+width: 70%;
+margin: 30px;
+display: inline-block;}
+#link{margin: 10px;}
